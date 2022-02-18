@@ -3,7 +3,26 @@
 
 <p>Todo os Exercicios foram resolvido utilizando a linguagem JAVA.</p>
 <p>Para Rodar é só selecionar o codigo e Run Code Java.</p>
+<p>Para resolver os exercicios utilizei de pesquisas e estudos até chegar a um codigo que satisfisesse
+o que estava sendo pedido.</p>
+<p> 
+   No Exercicio 1 segui a risca o que foi solicitado, eu apenas acrescentei um 
+   {System.out.print("DIGITE O TAMANHO DESEJADO: ");
+   num = entrada.nextInt();} Facilitando e deixando o tamanho 
+   da escada por conta do usuario.
+</p>
+<p>
+   No Exercicio 2 optei por acrescentar recursos que achei interessantes e que dariam um diferencial 
+   para a resolução do exercicio. 
+   - Coloquei um testador de tamnaho de senha, para nao deixar passar senha menor que o tamnaho solicitado.
+   - Usei o regex para testar se a senha atendia a todos os criterios definidos.
+   - utilizei de mensagens para facilitar e dar um passo a passo para o usuario, quanto a forma correta 
+   de se cadastrar uma senha segura.     
+</p>     
 
+
+
+#---------------------------------------------------------------------------------------------------------
 
 <h4>Questão 1</h5>
 <p>Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. 
