@@ -7,18 +7,18 @@
 <h4>Questão 1</h5>
 <p>Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. 
 A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.</p>
-<p>Exemplo:</p>
-<p>Entrada:</p> 
-<p>n = 5</p>
+<h4>Exemplo:</h4>
+<h4>Entrada:</h4> 
+<h4>n = 5</h4>
 
-<p>Saída:</p> 
+<h4>Saída:</h4> 
 
-<p>      *  </p>
-<p>     **  </p>
-<p>    ***  </p>
-<p>   ****  </p>
-<p>  *****  </p>
-<p> ******  </p>
+      *
+     **
+    ***
+   ****
+  *****
+ ******
 
 #---------------------------------------------------------------------------------------------------------
 
@@ -42,11 +42,11 @@ senha forte. Para ajudar Débora, construa um algoritmo que informe qual é o n�
 caracteres que devem ser adicionados para uma string qualquer ser considerada segura.
 </p>
 
-<p>Exemplo:</p>
-<p>Entrada: Ya 3</p>
-<p>Saída: 3 </p>
+<h4>Exemplo:</h4>
+<h4>Entrada: Ya 3</h4>
+<h4>Saída: 3 </h4>
 
-<p>Explicação:</p>
+<h4>Explicação:</h4>
 <p>
 Ela pode tornar a senha segura adicionando 3 caracteres, por exemplo, &ab, transformando
 a senha em Ya3&ab. 2 caracteres não são suficientes visto que a senha precisa ter um tamanho
@@ -65,24 +65,24 @@ podem ser realocadas para formar a outra palavra. Dada uma string qualquer, dese
 algoritmo que encontre o número de pares de substrings que são anagramas.
 </p>
 
-<p>Exemplo 1</p>
-<p>Entrada:</p>
-<p>ovo</p>
-<p>Saída:</p>
-<p>3</p>
+<h4>Exemplo 1</h4>
+<h4>Entrada:</h4>
+<h4>ovo</h4>
+<h4>Saída:</h4>
+<h4>3</h4>
 
-<p>Explicação:</p>
+<h4>Explicação:</h4>
 <p>A lista de todos os anagramas pares são: [o, o], [ov, vo] que estão nas posições [[0, 2], [0, 1],
 [1, 2]] respectivamente.</p>
 
 
-<p>Exemplo 2</p>
-<p>Entrada:</p>
-<p>ifailuhkqq</p>
-<p>Saída:</p>
-<p>3</p>
+<h4>Exemplo 2</h4>
+<h4>Entrada:</h4>
+<h4>ifailuhkqq</h4>
+<h4>Saída:</h4>
+<h>3</h4>
 
-<p>Explicação:</p>
+<h4>Explicação:</h4>
 <p>A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão nas posições [[0, 3]],
 [[8, 9]] e [[0, 1, 2], [1, 2, 3]].</p>
 
