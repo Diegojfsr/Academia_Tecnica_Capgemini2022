@@ -4,18 +4,18 @@
 <p>Todo os Exercicios foram resolvido utilizando a linguagem JAVA.</p>
 
 
-Questão 01
-Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. 
-A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
+<h4>Questão 01</h5>
+<p>Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. 
+A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.</p>
 Exemplo:
 Entrada: 
 n = 5
 
-Saída: 
+<p>Saída: 
 
       *
      **
     ***
    ****
   *****
- ******
+ ****** 
