@@ -12,11 +12,10 @@ A base e altura da escada devem ser iguais ao valor de n. A última linha não d
 <p>n = 5</p>
 
 <p>Saída:</p> 
-<p>
+
 #      *
 #     **
 #    ***
 #   ****
 #  *****
 # ****** 
-</p>
