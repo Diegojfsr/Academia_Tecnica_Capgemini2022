@@ -2,6 +2,7 @@
 <h4>Repositório destinado a armazenar e documentar o meu passo a passo e os meus desafios de programação durate a Academia Técnica Capgemini 2022!</h4>
 
 <p>Todo os Exercicios foram resolvido utilizando a linguagem JAVA.</p>
+<p>Para Rodar é só selecionar o codigo e Run Code Java.</p>
 
 
 <h4>Questão 1</h5>
