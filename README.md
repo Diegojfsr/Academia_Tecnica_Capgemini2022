@@ -13,10 +13,10 @@ o que estava sendo pedido.</p>
 </p>
 <p>
    No Exercicio 2 optei por acrescentar recursos que achei interessantes e que dariam um diferencial 
-   para a resolução do exercicio. 
-   - Coloquei um testador de tamnaho de senha, para nao deixar passar senha menor que o tamnaho solicitado.
-   - Usei o regex para testar se a senha atendia a todos os criterios definidos.
-   - utilizei de mensagens para facilitar e dar um passo a passo para o usuario, quanto a forma correta 
+   para a resolução do exercicio. <br>
+   - Coloquei um testador de tamnaho de senha, para nao deixar passar senha menor que o tamnaho solicitado.<br>
+   - Usei o regex para testar se a senha atendia a todos os criterios definidos.<br>
+   - Utilizei de mensagens para facilitar e dar um passo a passo para o usuario, quanto a forma correta 
    de se cadastrar uma senha segura.     
 </p>     
 
