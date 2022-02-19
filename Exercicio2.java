@@ -40,6 +40,7 @@ public class Exercicio2 {
                 int tamanho = senha.length();
                     if( tamanho < 5 ) {  // Se a senha tiver  5 ou meno scaracteres, Escrever:
                         int f = 6 - tamanho; // calcula a quantidade de caracteres faltantes
+                        System.out.println("SAIDA: " +  f );
                         System.out.println("VOCÊ INFORMOU APENAS " + tamanho + " DIGITOS!! INFORME MAIS " +  f + " DIGITOS."); 
                         System.out.println("DICA: A senha precisa ter 6 ou mais Caracteres!");  
                         System.out.println("Incluindo Letras Maiusculas, Letras Minusculas, Numeros e Caracteres Especiais"); 
