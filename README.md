@@ -19,8 +19,11 @@ o que estava sendo pedido.</p>
    - Utilizei de mensagens para facilitar e dar um passo a passo para o usuario, quanto a forma correta 
    de se cadastrar uma senha segura.     
 </p>     
-
-
+<p>
+   E com relação ao Exercicio 3, tive algumas dificudades de entender a logica pedida, ena forma como iria resolver a questão.
+   mas cheguei a um codigo que esta proximo do que foi pedido.
+   
+</p>
 
 #---------------------------------------------------------------------------------------------------------
 
